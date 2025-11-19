@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Nyellison, a front-end developer passionate about technology.
+I'm Nyellison, a front-end developer passionate about code.
 
 I'm currently learning HTML and CSS, and getting ready to dive into JavaScript.
 
