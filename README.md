@@ -1,15 +1,17 @@
-# Nyellison Matheus
+# Nyellison Matheus 👋
 
 **`Desenvolvedor em aprendizado`**
 
-🚀 Atualmente focado em aprender lógica de programação do zero
+🎯 Focado em evoluir na programação do zero
 
-### 📚 Em aprendizado:
+### 🚀 Atualmente estudando:
+- Lógica de programação
 - JavaScript
-- Lógica
-- Estrutura de dados
 
 ---
+
+### 📌 Objetivo:
+Me tornar um desenvolvedor capaz de criar projetos e resolver problemas
 
 ### 🧰 Linguagens e Tecnologias
 
