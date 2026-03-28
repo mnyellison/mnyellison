@@ -1,11 +1,13 @@
 # Nyellison Matheus
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor em aprendizado`**
 
-Sou desenvolvedor front-end com foco em aprendizado contínuo e evolução técnica. Atualmente, 
-estou em formação fullstack, com ênfase no desenvolvimento web. Busco escrever código limpo, reutilizável 
-e bem estruturado, além de gostar de colaborar e compartilhar conhecimento. Também estou comprometido em 
-aprimorar constantemente minhas habilidades de lógica e resolução de problemas.
+🚀 Atualmente focado em aprender lógica de programação do zero
+
+### 📚 Em aprendizado:
+- JavaScript
+- Lógica
+- Estrutura de dados
 
 ---
 
